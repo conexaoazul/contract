@@ -1701,7 +1701,7 @@ msgstr "Unidade de Medida"
 #. module: contract
 #: model_terms:ir.ui.view,arch_db:contract.report_contract_document
 msgid "VAT:"
-msgstr "VAT:"
+msgstr "CNPJ/CPF:"
 
 #. module: contract
 #: model_terms:ir.ui.view,arch_db:contract.portal_contract_page
